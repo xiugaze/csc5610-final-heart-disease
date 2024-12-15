@@ -1,4 +1,4 @@
-./data/*
+data/*
 
 *.bundle.*
 lib/
