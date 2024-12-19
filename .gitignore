@@ -1,5 +1,6 @@
 data/*
 
+*.feather
 *.bundle.*
 lib/
 node_modules/
