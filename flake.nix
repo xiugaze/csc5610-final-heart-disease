@@ -33,6 +33,7 @@
             graphviz
             xlrd
             geopy 
+            imbalanced-learn
           ]);
           shellHook = ''
             exec zsh
